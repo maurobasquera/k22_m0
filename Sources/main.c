@@ -104,7 +104,7 @@ int main(void)
 for(;;) {
 
 	time_stamp();
-//	blink_blue();
+	blink_blue();
 
 	regs_send[0] = rs1;
 	regs_send[1] = rs2;
