@@ -69,7 +69,7 @@
 
 unsigned int rs1 = 77;
 unsigned int rs2 = 88;
-unsigned int rs3 = 99;
+unsigned int rs3 = 10;
 unsigned int rs4 = 11;
 
 unsigned int rr1 = 0;

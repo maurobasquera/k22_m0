@@ -126,7 +126,7 @@ void modbus_update(){
 
     if (error_total > error_max){ //se estourou o numero total de erros permitidos
     	transmission_Flag = 0;  // desabilita transmissao
-//    	red_On();
+    	red_On();
     }
 
 	if (transmission_Flag) // atualiza numero total de erros
