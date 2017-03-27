@@ -67,10 +67,10 @@
 #include "main_header.h"
 #include "modbusMaster.h"
 
-unsigned int rs1 = 16;
-unsigned int rs2 = 78;
-unsigned int rs3 = 23;
-unsigned int rs4 = 55;
+unsigned int rs1 = 77;
+unsigned int rs2 = 88;
+unsigned int rs3 = 99;
+unsigned int rs4 = 11;
 
 unsigned int rr1 = 0;
 unsigned int rr2 = 0;
